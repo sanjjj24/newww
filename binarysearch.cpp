@@ -12,7 +12,7 @@ main()
 	}
 	while(start<=end)
 	{
-		m=((start+end)/2);
+		m=((sta+end)/2);
 		if(k==a[m])
 		{
 			cout<<m+1;
