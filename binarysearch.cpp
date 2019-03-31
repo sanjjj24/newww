@@ -16,9 +16,7 @@ main()
 		if(k==a[m])
 		{
 			cout<<m+1;
-			break;
-		}
-		else if(k<a[m])
+			br
 		{
 			end=m-1;
 		}
