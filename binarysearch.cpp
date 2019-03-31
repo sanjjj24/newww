@@ -9,7 +9,6 @@ main()
 	for(i=0;i<n;i++)
 	{
 		cin<<a[i];
-	}
 	while(start<=end)
 	{
 		m=((sta+end)/2);
