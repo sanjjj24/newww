@@ -6,8 +6,7 @@ main()
 	cout<<"enter no of elements";
 	cin>>n;
 	cout<<"enter the elements";
-	for(i=0;i<n;i++)
-	{
+	for(i=0;i<n;
 		cin>>a[i];
 	}
 	while(start<=end)
